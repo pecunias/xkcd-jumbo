@@ -1,0 +1,20 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "ContainerComics": {
+    "description": "Auto imported from components/comics/ContainerComics.vue"
+  },
+  "LazyContainerComics": {
+    "description": "Auto imported from components/comics/ContainerComics.vue"
+  },
+  "LoginUser": {
+    "description": "Auto imported from components/login/LoginUser.vue"
+  },
+  "LazyLoginUser": {
+    "description": "Auto imported from components/login/LoginUser.vue"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "comics",
+    "path": "/comics",
+    "component": "/Users/jelte.wiersma/Projects/xkcd/xkcd-jumbo/pages/comics/index.vue",
+    "chunkName": "pages/comics/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/jelte.wiersma/Projects/xkcd/xkcd-jumbo/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
